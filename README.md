@@ -1,4 +1,5 @@
 README
+
 🛠️ Controle de Investimento FII:
 Uma ferramenta interativa para simular cenários de investimentos, permitindo visualizar como diferentes aportes mensais e salários podem impactar seus objetivos financeiros.
 
