@@ -22,7 +22,7 @@ Não altere os campos em cinza.
 
 Os campos em branco podem ser preenchidos.
 
-Exemplos:
+Exemplo:
 💰 "Salário"
 
 💸 "Quanto investir por mês"
